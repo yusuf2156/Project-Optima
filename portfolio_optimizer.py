@@ -218,12 +218,4 @@ if __name__ == "__main__":
     print("\n--- Initial Tests Finished ---")
 
 
-# matrixide eklemen gerekiyor, bunu ekle.
-# Standart Variationu koyuyorsun Çıktıya
-# Simülasyonu işini çöz, birçok çok iyi hale getir 15 hissedede
-# Random weight
-# porföy kısmına çalış teorik kısmına bak, zıt şeyleri yanyana koymanın bir yolunu bul.
-# pozitif cov çıkar.
-# benchmark olarak 3 ay öncesine kadar ne olurdu 6 ay önce olsaydı neo lurdu
-# 3 ay öncesi , 6 ay öncesine kadar aşığya listele tablo olarak yap bunları. benchmark olarak koy.
  # faktör modelleri !! bak
