@@ -1,7 +1,6 @@
 # **Project Optima: An Interactive Portfolio Optimization Engine** 
 
-### **Live Demo: [Link to your deployed Streamlit App]** <--- We will add this link in the next phase!
-
+### **Live Demo: https://project-optima-pr5sadef65spprrrdtj8mr.streamlit.app/ ** 
 ## 🚀 Overview
 Project Optima is an interactive financial analysis tool that built with Python which implements Modern Portfolio Theory(MPT).
 To better understand the app,firstly, it needed to be understand how theory works. In a simple analogy,
