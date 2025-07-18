@@ -2,6 +2,6 @@ numpy
 pandas
 yfinance
 scipy
-matplotlib
+plotly
 streamlit
 
