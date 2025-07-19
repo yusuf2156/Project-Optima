@@ -23,6 +23,7 @@ st.set_page_config(layout="wide",
 )
 st.title("Project Optima: An Interactive Portfolio Optimization Engine")
 with st.sidebar:
+    st.info(""" For BIST100 stocks, please add .IS end of the tickers.""")
     st.subheader("User Inputs")
     tickers_input= st.text_input("Enter comma-separated stock tickers",value="AAPL,MSFT,GOOG,AMZN")
     start_date = st.date_input("Start Date",value = date(2021,1,1))
